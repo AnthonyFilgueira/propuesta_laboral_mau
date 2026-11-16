@@ -1,0 +1,9 @@
+{
+    "host": "propuesta-laboral-mau.innodite.com",
+    "nombre": "MAU by Contatech",
+    "codigos": {
+        "m1": "Correo a informes@contatech.lat",
+        "m2": "Nota de conexión de LinkedIn"
+    },
+    "minimo": false
+}
